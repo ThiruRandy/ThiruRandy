@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Java Full Stack Developer** pursuing a Bachelor's degree in Computer Science Engineering. I enjoy building scalable applications using modern technologies and continuously improving my problem-solving skills.
+I am a passionate **Java Full Stack Developer** pursuing a Bachelor's degree in Electronics and Communication Engineering. I enjoy building scalable applications using modern technologies and continuously improving my problem-solving skills.
 ---
 
 ## 🛠️ Languages and Tools
