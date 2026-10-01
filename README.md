@@ -1,6 +1,6 @@
 # Hi 👋, I'm ThiruMurugan
 
-### Java Full Stack Developer from India 🇮🇳
+### Java Full Stack Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThiruRandy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,7 +14,7 @@
 * 📱 Phone: **+91 8124519882**
 * 💻 GitHub: **https://github.com/ThiruRandy**
 * 🔗 LinkedIn: **https://www.linkedin.com/in/thirumurugan-s-435a71337/**
-* 📍 Location: Bengaluru, Karnataka, India
+* 📍 Location: TamilNadu, India
 
 ---
 
